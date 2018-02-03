@@ -2,4 +2,5 @@
 
 Python 3.6 sürümünde yazılmıştır.
 
-Kullanımı: python3 portTara.py
+Kullanımı: Terminal -> python3 portTara.py
+
